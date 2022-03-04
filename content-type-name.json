@@ -1,0 +1,90 @@
+{
+  "story": {
+    "name": "acheivement2",
+    "created_at": "2022-03-04T19:45:50.571Z",
+    "published_at": null,
+    "id": 113304039,
+    "uuid": "123b027b-332d-4c3d-86c5-2d1ccdfc0d08",
+    "content": {
+      "_uid": "10bdd299-7f87-443a-87c9-697fe6a0d6ae",
+      "body": [
+        {
+          "_uid": "5a24bbcd-7235-44bb-9db8-3739977b07fd",
+          "headline": "Hello world!",
+          "component": "teaser",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"teaser\", \"space\": \"149360\", \"uid\": \"5a24bbcd-7235-44bb-9db8-3739977b07fd\", \"id\": \"113304039\"}--\u003e"
+        },
+        {
+          "_uid": "dca4fa90-1de8-4504-adfe-fc9366289b38",
+          "columns": [
+            {
+              "_uid": "4143936a-ab20-4167-9c2c-ff99ca62bd80",
+              "name": "Feature 1",
+              "component": "feature",
+              "_editable": "\u003c!--#storyblok#{\"name\": \"feature\", \"space\": \"149360\", \"uid\": \"4143936a-ab20-4167-9c2c-ff99ca62bd80\", \"id\": \"113304039\"}--\u003e"
+            },
+            {
+              "_uid": "fcccda16-8675-4e39-bc69-81cecae7a73e",
+              "name": "Feature 2",
+              "component": "feature",
+              "_editable": "\u003c!--#storyblok#{\"name\": \"feature\", \"space\": \"149360\", \"uid\": \"fcccda16-8675-4e39-bc69-81cecae7a73e\", \"id\": \"113304039\"}--\u003e"
+            },
+            {
+              "_uid": "ede5d2ec-30c0-4580-9c64-c7978cfb7b65",
+              "name": "Feature 3",
+              "component": "feature",
+              "_editable": "\u003c!--#storyblok#{\"name\": \"feature\", \"space\": \"149360\", \"uid\": \"ede5d2ec-30c0-4580-9c64-c7978cfb7b65\", \"id\": \"113304039\"}--\u003e"
+            }
+          ],
+          "component": "grid",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"grid\", \"space\": \"149360\", \"uid\": \"dca4fa90-1de8-4504-adfe-fc9366289b38\", \"id\": \"113304039\"}--\u003e"
+        },
+        {
+          "_uid": "c6b02843-0e3f-47d4-854c-5c74f592f3c3",
+          "link": {
+            "id": "",
+            "url": "#",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "logo": {
+            "id": 3981706,
+            "alt": "",
+            "name": "",
+            "focus": null,
+            "title": "",
+            "filename": "https://a.storyblok.com/f/149360/132x137/f5ac5a06a1/logo.png",
+            "copyright": "",
+            "fieldtype": "asset"
+          },
+          "component": "card",
+          "description": "The environments we're exposed to on a daily basis asre filled with thins that can easily trigger afight for flight...",
+          "benefit_title": "Relextion Response",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"card\", \"space\": \"149360\", \"uid\": \"c6b02843-0e3f-47d4-854c-5c74f592f3c3\", \"id\": \"113304039\"}--\u003e"
+        }
+      ],
+      "component": "page",
+      "_editable": "\u003c!--#storyblok#{\"name\": \"page\", \"space\": \"149360\", \"uid\": \"10bdd299-7f87-443a-87c9-697fe6a0d6ae\", \"id\": \"113304039\"}--\u003e"
+    },
+    "slug": "acheivement2",
+    "full_slug": "acheivement2",
+    "sort_by_date": null,
+    "position": 0,
+    "tag_list": [],
+    "is_startpage": false,
+    "parent_id": 0,
+    "meta_data": null,
+    "group_id": "fe327feb-8619-4d71-84da-850604b9d18e",
+    "first_published_at": null,
+    "release_id": null,
+    "lang": "default",
+    "path": null,
+    "alternates": [],
+    "default_full_slug": null,
+    "translated_slugs": null
+  },
+  "cv": 1646425039,
+  "rels": [],
+  "links": []
+}
